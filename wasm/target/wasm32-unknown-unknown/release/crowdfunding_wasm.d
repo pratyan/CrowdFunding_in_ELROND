@@ -1,0 +1,1 @@
+/mnt/e/Elrond/CrowdFunding/SmartContracts/crowdfunding/wasm/target/wasm32-unknown-unknown/release/crowdfunding_wasm.wasm: /mnt/e/Elrond/CrowdFunding/SmartContracts/crowdfunding/src/lib.rs /mnt/e/Elrond/CrowdFunding/SmartContracts/crowdfunding/wasm/src/lib.rs

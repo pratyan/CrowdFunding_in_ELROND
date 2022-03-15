@@ -1,0 +1,1 @@
+/mnt/e/Elrond/CrowdFunding/SmartContracts/crowdfunding/meta/target/debug/crowdfunding-meta: /mnt/e/Elrond/CrowdFunding/SmartContracts/crowdfunding/meta/src/main.rs /mnt/e/Elrond/CrowdFunding/SmartContracts/crowdfunding/src/lib.rs
